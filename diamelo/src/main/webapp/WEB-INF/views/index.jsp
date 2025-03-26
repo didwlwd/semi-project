@@ -8,7 +8,9 @@
         <div class="layout-wrapper">
             <!-- 왼쪽 고정 사이드바 -->
             <jsp:include page="common/sidebar.jsp" />
-
+            <div>
+                ㅎㅇㅎㅇ
+            </div>
             <!-- 오른쪽 상단바 + 콘텐츠 -->
             <div class="main-area">
                 <jsp:include page="common/header.jsp" />
