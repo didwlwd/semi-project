@@ -9,6 +9,7 @@
             황윤창 왔다감
             승민이가 또 왔다감
             승민님이가 누군데
+            승민이는 승민이
             <!-- 왼쪽 고정 사이드바 -->
             <jsp:include page="common/sidebar.jsp" />
             <div>
