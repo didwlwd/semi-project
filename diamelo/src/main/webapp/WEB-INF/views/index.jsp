@@ -6,6 +6,7 @@
     </head>
     <body>
         <div class="layout-wrapper">
+            황윤창 왔다감
             <!-- 왼쪽 고정 사이드바 -->
             <jsp:include page="common/sidebar.jsp" />
             <div>
